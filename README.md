@@ -26,3 +26,5 @@
  ## :bulb: Information
 #### :test_tube: Tests:
 :file_folder: Tests are located in `cypress/integration` folder
+
+Recorded Run: https://dashboard.cypress.io/projects/d1bk1w/runs/4
