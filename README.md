@@ -3,7 +3,7 @@
 [![Automation LOGIN](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/d1bk1w&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/d1bk1w/runs)
 
 ## :goal_net: Goals
-- check basic website funcionality with accessing, browsing, loggin and finishing test with logout
+- check basic website funcionality with accessing, browsing, login and finishing test with logout
 - test is easily readable
 - project is easily understandable
 
