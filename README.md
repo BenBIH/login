@@ -16,7 +16,7 @@
 ### 2. Fork this repo
 
 - `git clone https://github.com/BenBIH/login.git`
-2. cd to `cypress` folder
+- cd to `cypress` folder
 
 ### 2. :heavy_check_mark: Run tests
 
